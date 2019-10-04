@@ -1,4 +1,4 @@
-**Day Five - 30 days of React challenge - "Relish Reminder" app..**
+**Day Five - 30 days of React challenge - "Relish Reminder" app.**
 
 This is a React.js app that reminds you to THINK about relish!
 
